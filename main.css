@@ -1,0 +1,17 @@
+#calculator{
+    background-color: rgb(128, 128, 236);
+    color: white;
+    width: 400px;
+    margin-left: 400px;
+    border-radius: 20px;
+    height: 500px;
+}
+h2, input, p{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+input {
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
